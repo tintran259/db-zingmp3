@@ -1,5 +1,13 @@
 {
-  "data":[
+  "list-song":[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false
+    }
+  ],
+  "album":[
     {
       "userId": 1,
       "id": 1,
